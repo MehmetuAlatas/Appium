@@ -56,8 +56,6 @@ public class UiSelector {
         //test startwith
         driver.findElementByAndroidUIAutomator("UiSelector().className(\"android.widget.Button\").textStartsWith(\"Te\")").click();
 
-
-
           }
 }
 
