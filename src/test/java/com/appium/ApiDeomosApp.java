@@ -22,6 +22,8 @@ public class ApiDeomosApp {
         AndroidDriver<AndroidElement> driver =  new AndroidDriver<AndroidElement>(new URL("http:localhost:4723/wd/hub"),desiredCapabilities);
 
         Thread.sleep(5000);
+        
+        //git pull
 
     }
 }
